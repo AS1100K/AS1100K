@@ -6,6 +6,7 @@ I'm a software developer with a passion for creating innovative solutions that s
 
 ## Links
 - [Website - adityais.dev](https://adityais.dev)
+- [Blogs](https://adityais.dev/blog)
 - [LinkedIn](https://linkedin.com/in/AS1100K)
 
 ## I'm currently working on
@@ -13,9 +14,6 @@ I'm a software developer with a passion for creating innovative solutions that s
 - Creating better Minecraft Bots to automate [2b2t.org](https://2b2t.org)
 - Maintaining [Bevy Discord](https://github.com/as1100k/bevy-discord)
 - Building more robust GitHub Actions at [rs-workspace](https://github.com/rs-workspace) especially for cargo workspace
-
-## I'm looking to working on
-- Adding Blog to my website
 
 ## I'm currently learning
 **Ambala College of Engineering and Applied Research**
