@@ -12,7 +12,7 @@ I'm a software developer with a passion for creating innovative solutions that s
 ## I'm currently working on
 - Developing [cargo-wiki](https://github.com/as1100k/cargo-wiki), a cargo extension aiming to build rust documentation in markdown.
 - Creating better Minecraft Bots to automate [2b2t.org](https://2b2t.org)
-- Maintaining [Bevy Discord](https://github.com/as1100k/bevy-discord)
+- Maintaining [`pastey`](https://github.com/as1100k/pastey), [`bevy-discord`](https://github.com/as1100k/bevy-discord)
 - Building more robust GitHub Actions at [rs-workspace](https://github.com/rs-workspace) especially for cargo workspace
 
 ## I'm currently learning
